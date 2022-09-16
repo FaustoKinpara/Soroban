@@ -1,3 +1,10 @@
+# Tabela para treino de Soroban
+
+Eu aprendi a usar o Soroban ou Ábaco (como alguns chamam) no meu celular, e no dia que meu irmão deu um para usar. Percebi que não havia nenhuma lista para praticar.
+Assim desenvolvi este programa para praticar o uso do Soroban. Ele é um inicial, pois futuramente pretendo colocar subtração, divisão e multiplicação, além é claro um gráfico de desempenho.
+No momento, este só tem a função soma e o tempo gasto para executar a soma.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
